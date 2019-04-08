@@ -1,0 +1,2 @@
+# Codility_trining
+Codilityの練習問題を何個か解いてみたので備忘のためコミット
